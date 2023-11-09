@@ -15,3 +15,22 @@ Computação em nuvem revolucionou o armazenamento e acesso a dados, oferecendo 
 
 Link: https://lgpdnews.com/2023/10/afinal-como-proteger-dados-cloud/
 
+
+
+Manchete: STJ Determina Responsabilidade Bancária em Vazamento de Dados que Facilitam Fraudes
+O Superior Tribunal de Justiça decidiu que bancos são responsáveis por vazamentos de dados que levam a fraudes, como no caso de um cliente enganado pelo "golpe do boleto". A decisão, influenciada pela Súmula 479 do STJ e a Lei Geral de Proteção de Dados, impõe ao banco a obrigação de reembolsar o cliente pelo pagamento feito em um boleto falso.
+Link: https://www.lgpdbrasil.com.br/banco-assume-responsabilidade-por-vazamento-de-dados-que-facilitou-o-golpe-do-boleto-contra-cliente/
+
+Manchete: ANPD Propõe Modelo de Regulação Centralizada para Inteligência Artificial
+Resumo: A Autoridade Nacional de Proteção de Dados (ANPD) publicou a Nota Técnica nº 16/2023, propondo mudanças no Projeto de Lei nº 2338/2023 para regulamentar a inteligência artificial (IA) de forma alinhada à Lei Geral de Proteção de Dados (LGPD). A ANPD sugere um modelo institucional centralizado com coordenação entre órgãos reguladores e o Poder Executivo, enfatizando a necessidade de uma autoridade central para orientação e conhecimento transversal, promovendo a segurança jurídica e colaboração setorial.
+Link: https://www.lgpdbrasil.com.br/segunda-analise-sobre-pl-da-ia-e-realizada-pela-anpd/
+Manchete: Audiência Pública da CTIA Enfatiza Proteção de Dados na Regulação da IA no Brasil
+Resumo: A Comissão Temporária sobre Inteligência Artificial no Brasil realizou uma audiência pública para discutir a regulação da IA, destacando a importância da proteção de dados pessoais. O Projeto de Lei 2.338/2023, presidido pelo senador Rodrigo Pacheco, procura harmonizar-se com a LGPD e promover um desenvolvimento equilibrado entre inovação tecnológica e privacidade dos cidadãos. Especialistas ressaltaram a necessidade de uma lei de IA que proteja os indivíduos sem restringir o avanço tecnológico e econômico do país.
+Link: https://www.lgpdbrasil.com.br/audiencia-publica-destaca-regulacao-da-ia-e-preocupacao-com-a-protecao-de-dados/
+
+Manchete: Banco Central Enfrenta Possível Multa Pesada por Violação de Proteção de Dados
+Resumo: O Banco Central pode ser multado por manter dados pessoais de mutuários além do prazo legal, afetando o histórico de crédito de 20 mil pessoas. A violação, que pode influenciar cerca de 50 decisões de crédito, está sob investigação da Data Protection Commission irlandesa e pode resultar na maior multa já aplicada a um órgão público por não cumprir a GDPR. O Banco Central admitiu o erro e implementou medidas para prevenir futuras infrações.
+Link: https://www.lgpdbrasil.com.br/violacao-a-gdpr-leva-banco-central-a-enfrentar-multa-historica/
+
+
+
